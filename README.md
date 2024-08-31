@@ -23,7 +23,7 @@ Por lo tanto, es la entidad responsable del mantenimiento y gestion del transito
 
 Por otro lado, la pagina de la UCR cuenta con un [mapa](https://www.ucr.ac.cr/mapas/sede-central/laboratorio-nacional-de-materiales-y-modelos-estructurales-lanamme.html) interactivo, que permite la consulta sobre ciertas instalaciones de dentro del campus. Este mapa, muestra en forma de _Pop Up_ la informacion de contacto, su pagina y ubicacion de los **edificios**. Sin embargo, es un mapa con poca informacion de relevancia, ya que, no muestra mas datos relevantes sobre actualizaciones del estado sobre infraestructura de seguridad y es un mapa poco conocido.
 
->![Esta imagen muestra el mapa interactivo de la sede Rodrigo Facio, UCR](UCRMAP.png) Imagen tomada de la pagina oficial de la [Universidad de Costa Rica (UCR)](https://www.ucr.ac.cr/mapas/sede-central/laboratorio-nacional-de-materiales-y-modelos-estructurales-lanamme.html)
+>![Esta imagen muestra el mapa interactivo de la sede Rodrigo Facio, UCR](UCRMAP.PNG) Imagen tomada de la pagina oficial de la [Universidad de Costa Rica (UCR)](https://www.ucr.ac.cr/mapas/sede-central/laboratorio-nacional-de-materiales-y-modelos-estructurales-lanamme.html)
 
 Esta falta de informacion, difusion y sumado al mal diseño (no es atractivo visualmente), ha generado que recursos como estos se desaprovechen. Es necesario plantear dentro del campus universitario mediciones a tiempo real que permitan alertar sobre el estado de las instalaciones, debido a que: 
 1. Puede mejorar la distribucion de los recursos
@@ -32,5 +32,5 @@ Esta falta de informacion, difusion y sumado al mal diseño (no es atractivo vis
 
 Por esto, muchas partes de la universidad se verian beneficiadas por este servicio y daria paso a la innovacion, la cual, puede ya no solo contemplar unicamente infraestructura de seguridad, sino, actualizaciones sobre el estado del autobus interno, caidas de arboles, inundaciones o para la misma orientacion de los estudiantes, la cual suele ser uno de los principales temores al momento de ingresar a la universidad.     
 
-
+<div style="text-align: justify;"> 
 
