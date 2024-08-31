@@ -1,7 +1,6 @@
 ## Monitoreo sobre el estado de las instalaciones de seguridad en tiempo real de Finca 2, Universidad de Costa Rica
 ### Descripcion del proyecto
-<div style="text-align: justify;"> 
-  afasfaasfa
+
 El monitoreo del estado de instalaciones de seguridad es fundamental para garantizar la integridad, funcionalidad y seguridad de infraestructuras críticas. Este proceso implica la vigilancia continua y el análisis en tiempo real de diversos elementos de seguridad, como barreras físicas (agujas de seguridad),  alumbrado publico, hidrantes, entre otros. Un sistema eficaz de monitoreo permite la detección temprana de fallos, el mantenimiento predictivo y una respuesta rápida ante cualquier anomalía, asegurando la protección de las instalaciones y la prevención de incidentes. Ademas, permite tomar decisiones con mayor facilidad y menor tiempo.
 >![Muestra un ejemplo de un mapa interactivo](tiempo.png) <br>
 >Tomado de [ArcGis dashboards](https://www.ucr.ac.cr/mapas/sede-central/laboratorio-nacional-de-materiales-y-modelos-estructurales-lanamme.html)
@@ -34,3 +33,4 @@ Esta falta de informacion, difusion y sumado al mal diseño (no es atractivo vis
 3. Proporciona al publico general la informacion de forma intuitiva y permite la constante retroalimentacion
 
 Por esto, muchas partes de la universidad se verian beneficiadas por este servicio y daria paso a la innovacion, la cual, puede ya no solo contemplar unicamente infraestructura de seguridad, sino, actualizaciones sobre el estado del autobus interno, caidas de arboles, inundaciones o para la misma orientacion de los estudiantes, la cual suele ser uno de los principales temores al momento de ingresar a la universidad.     
+
