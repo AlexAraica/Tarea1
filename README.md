@@ -4,7 +4,6 @@ El monitoreo del estado de instalaciones de seguridad es fundamental para garant
 >![Muestra un ejemplo de un mapa interactivo](tiempo.png) 
 Tomado de [ArcGis dashboards](https://www.ucr.ac.cr/mapas/sede-central/laboratorio-nacional-de-materiales-y-modelos-estructurales-lanamme.html)
 ### Datos y variables
-<div style="text-align: justify;"> 
 En este proyecto se obtendran los datos a partir de los reportes que los usuarios provean al servicio de mapeo en tiempo real. Ademas, si el equipo que se considera en este proyecto lo permite se tomaran los datos a partir de sensores que reporten el estado del equipo. Dentro de las variables a considerar en el mapa se tienen las siguientes:
 - **Funcionamiento del dispositivo:** sera un espacio donde el usuario podra reportar un averia del equipo a traves de la interfaz de la aplicacion. Ademas, si las condiciones lo permiten, se usara un sensor para automatizar esta accion.
 - **Estado del equipo:** se entiende como la condicion en la que se encuentra este, para ello se identificara como "en buen estado", "requiere mantenimiento" y "deteriorado". Esta variable, sera controlada por los administradores de la base de datos.
